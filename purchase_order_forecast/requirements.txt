@@ -1,0 +1,4 @@
+# Modules used
+psycopg2-binary   # Module used for read and write from postgresql database via python
+openpyxl         # Module used to write and read excel via python
+pandas           # Module used to write and read excel via python
